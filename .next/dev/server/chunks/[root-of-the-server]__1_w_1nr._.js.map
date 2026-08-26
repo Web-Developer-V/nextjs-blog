@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 16, "column": 0}, "map": {"version":3,"sources":["file:///D:/web-coding/develop/next-js/tutorial/nextjs-blog/pages/api/hello.js"],"sourcesContent":["export default function handler(req, res) {\r\n  res.status(200).json({ text: \"hello\" });\r\n}\r\n"],"names":["handler","req","res","status","json","text"],"mappings":";;;;AAAe,SAASA,QAAQC,GAAG,EAAEC,GAAG;IACtCA,IAAIC,MAAM,CAAC,KAAKC,IAAI,CAAC;QAAEC,MAAM;IAAQ;AACvC"}}]
+}
